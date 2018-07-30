@@ -4,15 +4,15 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-	background: burlywood; 
+	background: darkkhaki; 
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-	background: wheat; 
+	background: black; 
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-	background: rosybrown; 
+	background: khaki; 
 }
