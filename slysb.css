@@ -4,17 +4,17 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-	background: honeydew; 
+	background: beige; 
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-	background: gainsboro; 
+	background: dimgray; 
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-	background: darkgray;
+	background: #2b2b2b;
 	transition: all 0.5s ease-in-out;
         -o-transition: all 0.5s ease-in-out;
         -moz-transition: all 0.5s ease-in-out;
