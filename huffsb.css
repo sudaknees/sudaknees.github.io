@@ -4,12 +4,12 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-	background: darkkhaki; 
+	background: lemonchiffon; 
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-	background: black; 
+	background: darkgray; 
 }
 
 /* Handle on hover */
