@@ -4,12 +4,12 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-	background: burlywood; 
+	background: wheat; 
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-	background: wheat; 
+	background: burlywood; 
 }
 
 /* Handle on hover */
