@@ -17,7 +17,7 @@ var tinyx=new Array();
 var tinyy=new Array();
 var tinyv=new Array();
 
-colours=new Array('#000000')
+colours=new Array('#000000','#000000')
 
 n = 10;
 h = 0;
