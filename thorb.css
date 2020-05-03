@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+	width: 7.5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: lightgoldenrodyellow; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: lightgray; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: lightpink; 
+}
+
+* {
+                cursor: url("https://www.springhole.net/pixelart/cursors/AvIn_TO.gif"), auto;
+            }
