@@ -17,5 +17,6 @@
 	background: darkslateblue; 
 }
 
-cursor: url("https://www.springhole.net/pixelart/cursors/AvIn_HE.gif"), auto;
-            }
+* {
+	cursor: url("https://www.springhole.net/pixelart/cursors/AvIn_HE.gif"), auto;
+}
